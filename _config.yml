@@ -2,16 +2,16 @@
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
-url:                 'https://appdev-projects.github.io/'
+url:                 'https://demostudent18.github.io/'
 baseurl:             'til/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Raghu Betina
-  url:               https://twitter.com/raghubetina
-  email:             raghu@firstdraft.com
+  name:              Demo Student
+  url:               https://demostudent18.com
+  email:             demostudent18@firstdraft.com
 
 # Gems
 plugins:
@@ -19,4 +19,3 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: UA-146052-15
